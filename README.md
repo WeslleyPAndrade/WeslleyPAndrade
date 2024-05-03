@@ -1,6 +1,6 @@
 # Weslley Andrade
 
-Olá, Me chamo Weslley e sou desenvolvedor Backend, atuando como desenvolvedor no ambiente Microsoft.NET, mais especificamente com C#, .Net, Asp.Net MVC e banco de dados SQL Server.
+Olá, Me chamo Weslley e sou desenvolvedor Fullstack, atuando como desenvolvedor no ambiente Microsoft.NET, mais especificamente com C#, .Net, Asp.Net MVC e banco de dados SQL Server.
 
 ### Conecte-se comigo
 
